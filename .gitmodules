@@ -8,3 +8,8 @@
 	url = https://github.com/fertiglab/ataccogaps
 	shallow = true
 	registered = true
+[submodule "scatterHatch"]
+	path = scatterHatch
+	url = https://github.com/fertiglab/scatterhatch
+	shallow = true
+	registered = true

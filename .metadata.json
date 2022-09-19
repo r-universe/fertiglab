@@ -1,5 +1,8 @@
 [
   {
     "package": "ATACCoGAPS"
+  },
+  {
+    "package": "scatterHatch"
   }
 ]
