@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "scatterHatch"]
-	path = scatterHatch
-	url = https://github.com/fertiglab/scatterhatch
-	shallow = true
-	registered = true
 [submodule "ATACCoGAPS"]
 	path = ATACCoGAPS
 	url = https://github.com/fertiglab/ataccogaps
+	shallow = true
+	registered = true
+[submodule "scatterHatch"]
+	path = scatterHatch
+	url = https://github.com/fertiglab/scatterhatch
 	shallow = true
 	registered = true
